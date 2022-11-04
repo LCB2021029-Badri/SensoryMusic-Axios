@@ -7,3 +7,4 @@ this app uses following concepts:
 - mobile sensor activation
 - media player class
 - UI handler
+- android services
